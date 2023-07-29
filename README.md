@@ -123,4 +123,4 @@ If you encounter any vulnerabilities, please reach out to me directly at [hi@ish
 
 Voyager is distributed under the MIT License.
 
-See the [LICENSE](license) file for more information.
+See the [License](https://github.com/ishaanbedi/Voyager/blob/main/LICENSE) file for more information.
