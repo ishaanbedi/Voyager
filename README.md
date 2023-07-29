@@ -51,7 +51,7 @@ The interface is easy to understand and navigate. The application window is divi
 
 <img width="1102" alt="Screenshot 2023-07-29 at 5 11 36 PM" src="https://github.com/ishaanbedi/Voyager/assets/39641326/e52edc54-b990-4588-86a3-c38e656d0787">
 
-You can add as many query parameters as a key-value pair as you want. You can also add as many headers as you want. The headers are added as a key-value pair as well. You can also add authentication tokens and bearer tokes to your request in the Header Section, based on the requirements of your API endpoint.
+You can add as many query parameters as a key-value pair as you want. You can also add as many headers as you want. The headers are added as a key-value pair as well. You can also add authentication tokens and bearer tokens to your request in the Header Section, based on the requirements of your API endpoint.
 
 
 <img width="1185" alt="Screenshot 2023-07-29 at 5 05 12 PM" src="https://github.com/ishaanbedi/Voyager/assets/39641326/576f9a4e-f695-4bc0-8d27-51ec4224b63f">
