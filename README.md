@@ -1,5 +1,7 @@
 # Voyager ⛴️
 
+![Header](https://github.com/ishaanbedi/Voyager/assets/39641326/0ad1601a-dc83-48d8-b2f4-90496045244f)
+
 ## Introduction
 
 Voyager is a user-friendly macOS application designed for working with API's in an easy-to-interact playground.
