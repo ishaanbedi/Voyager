@@ -117,7 +117,7 @@ No, you do not need to have Xcode installed to use Voyager. You can download the
 
 To report bugs or request new features, please open an issue on GitHub.
 
-If you encounter any vulnerabilities, please reach out to me directly at [hi@ishaanbedi.in](hi@ishaanbedi.in) if it involves sensitive information or security concerns.
+If you encounter any vulnerabilities, please reach out to me directly at [hi@ishaanbedi.in](mailto:hi@ishaanbedi.in) if it involves sensitive information or security concerns.
 
 ## License
 
