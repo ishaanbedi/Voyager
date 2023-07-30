@@ -61,15 +61,6 @@ You can add as many query parameters as a key-value pair as you want. You can al
 
 Currently, Voyager supports Basic Authentication and Bearer Token Authentication. You can also add a request body to your request. The request body has to be in JSON format so as to be compatible with Voyager. The translated JSON body will be displayed side by side with the request body in the Query Builder section in a Key-Value pair property list format for easy readability. Also, if you type an invalid JSON, Voyager will notify you of the same in the side-by-side JSON body section.
 
-## Usage
-
-### Sending API Requests
-
-To send a request, enter the API URL in the provided field in the Query Builder section. Then, choose the request method from the dropdown menu. You can choose from GET, POST, PUT, DELETE, PATCH, and HEAD. After that, you can add headers, parameters, and authentication if required.
-
-Execute the request by clicking the "Run" button or pressing the "Command + R" keyboard shortcut. The response will be displayed in the Response Viewer section.
-
-
 
 <img width="1182" alt="Screenshot 2023-07-29 at 5 05 44 PM" src="https://github.com/ishaanbedi/Voyager/assets/39641326/15b83730-a5ff-420b-90f5-7422a768d9b6">
 
@@ -77,6 +68,12 @@ Execute the request by clicking the "Run" button or pressing the "Command + R" k
 <img width="1176" alt="Screenshot 2023-07-29 at 5 06 36 PM" src="https://github.com/ishaanbedi/Voyager/assets/39641326/9964ba0f-cd2d-4fc5-8b88-5ac5a3838c10">
 
 <img width="1188" alt="Screenshot 2023-07-29 at 5 07 40 PM" src="https://github.com/ishaanbedi/Voyager/assets/39641326/74870ed7-7a2b-4567-8622-e472fcbd58be">
+
+## Sending API Requests
+
+To send a request, enter the API URL in the provided field in the Query Builder section. Then, choose the request method from the dropdown menu. You can choose from GET, POST, PUT, DELETE, PATCH, and HEAD. After that, you can add headers, parameters, and authentication if required.
+
+Execute the request by clicking the "Run" button or pressing the "Command + R" keyboard shortcut. The response will be displayed in the Response Viewer section.
 
 
 ## Acknowledgements
