@@ -1,6 +1,6 @@
 # Voyager ⛴️
 
-![Header](https://github.com/ishaanbedi/Voyager/assets/39641326/0ad1601a-dc83-48d8-b2f4-90496045244f)
+![Header](https://res.cloudinary.com/dhfhotfqs/image/upload/v1690693678/Voyager/256981132-0ad1601a-dc83-48d8-b2f4-90496045244f_v9ri5w.png)
 
 ## Introduction
 
@@ -8,7 +8,7 @@ Voyager is a user-friendly macOS application designed for working with API's in 
 
 Voyager provides a seamless and efficient way to test your APIs and view responses in an in-built interface.
 
-<img width="1193" alt="Screenshot 2023-07-29 at 4 55 39 PM" src="https://github.com/ishaanbedi/Voyager/assets/39641326/5c7f3008-8ccc-4ea0-9775-d6976982b204">
+<img width="1193" alt="Screenshot 2023-07-29 at 4 55 39 PM" src="https://res.cloudinary.com/dhfhotfqs/image/upload/v1690693830/Voyager/256980024-5c7f3008-8ccc-4ea0-9775-d6976982b204_n9inz9.png">
 
 ## Features
 
@@ -18,7 +18,7 @@ Voyager provides a seamless and efficient way to test your APIs and view respons
 
 - **Request Customization**: Developers can easily customize their API requests with various parameters, headers, authentication methods and body of the request. The responsiveness of the app ensures that users can quickly configure their requests and get instant feedback based on their customizations and changes.
 
-<img width="1186" alt="Screenshot 2023-07-29 at 5 02 18 PM" src="https://github.com/ishaanbedi/Voyager/assets/39641326/e1ad3575-b1ce-4959-b65a-67517031ba5c">
+<img width="1186" alt="Screenshot 2023-07-29 at 5 02 18 PM" src="https://res.cloudinary.com/dhfhotfqs/image/upload/v1690693849/Voyager/256980262-e1ad3575-b1ce-4959-b65a-67517031ba5c_bw92bf.png">
 
 
 Read the official [post on ishaanbedi.in/apps/voyager](https://ishaanbedi.in/apps/voyager) to learn more about Voyager.
@@ -46,25 +46,25 @@ The interface is easy to understand and navigate. The application window is divi
 
 - **Query Builder**: This is where you can configure your API requests. You can enter the API URL, choose the request method, add headers, parameters, and authentication if needed.
 
-<img width="1192" alt="Screenshot 2023-07-29 at 5 04 18 PM" src="https://github.com/ishaanbedi/Voyager/assets/39641326/bc99adab-dba2-4e88-8adf-b8b0807dfbe2">
+<img width="1192" alt="Screenshot 2023-07-29 at 5 04 18 PM" src="https://res.cloudinary.com/dhfhotfqs/image/upload/v1690695112/Voyager/Screenshot_2023-07-30_at_11.01.46_AM_nbs8uz.png">
 
 
 - **Response Viewer**: The response will be displayed in the application in the response viewer section. If the response is in JSON format, it will be formatted and displayed properly, making it easy to read and understand. If the response is in any other format, it will be displayed as plain text here.
 
-<img width="1102" alt="Screenshot 2023-07-29 at 5 11 36 PM" src="https://github.com/ishaanbedi/Voyager/assets/39641326/e52edc54-b990-4588-86a3-c38e656d0787">
+<img width="1102" alt="Screenshot 2023-07-29 at 5 11 36 PM" src="https://res.cloudinary.com/dhfhotfqs/image/upload/v1690693847/Voyager/256980627-e52edc54-b990-4588-86a3-c38e656d0787_lfv8hw.png">
 
 You can add as many query parameters as a key-value pair as you want. You can also add as many headers as you want. The headers are added as a key-value pair as well. You can also add authentication tokens and bearer tokens to your request in the Header Section, based on the requirements of your API endpoint.
 
 
-<img width="1185" alt="Screenshot 2023-07-29 at 5 05 12 PM" src="https://github.com/ishaanbedi/Voyager/assets/39641326/576f9a4e-f695-4bc0-8d27-51ec4224b63f">
+<img width="1185" alt="Screenshot 2023-07-29 at 5 05 12 PM" src="https://res.cloudinary.com/dhfhotfqs/image/upload/v1690693846/Voyager/256980356-576f9a4e-f695-4bc0-8d27-51ec4224b63f_nectu3.png">
 
 
 Currently, Voyager supports Basic Authentication and Bearer Token Authentication. You can also add a request body to your request. The request body has to be in JSON format so as to be compatible with Voyager. The translated JSON body will be displayed side by side with the request body in the Query Builder section in a Key-Value pair property list format for easy readability. Also, if you type an invalid JSON, Voyager will notify you of the same in the side-by-side JSON body section.
 
 
-<img width="1176" alt="Screenshot 2023-07-29 at 5 06 36 PM" src="https://github.com/ishaanbedi/Voyager/assets/39641326/9964ba0f-cd2d-4fc5-8b88-5ac5a3838c10">
+<img width="1176" alt="Screenshot 2023-07-29 at 5 06 36 PM" src="https://res.cloudinary.com/dhfhotfqs/image/upload/v1690693844/Voyager/256980471-74870ed7-7a2b-4567-8622-e472fcbd58be_zaapyy.png">
 
-<img width="1188" alt="Screenshot 2023-07-29 at 5 07 40 PM" src="https://github.com/ishaanbedi/Voyager/assets/39641326/74870ed7-7a2b-4567-8622-e472fcbd58be">
+<img width="1188" alt="Screenshot 2023-07-29 at 5 07 40 PM" src="https://res.cloudinary.com/dhfhotfqs/image/upload/v1690695028/Voyager/Screenshot_2023-07-30_at_11.00.21_AM_vwt60o.png">
 
 ## Sending API Requests
 
@@ -72,7 +72,7 @@ To send a request, enter the API URL in the provided field in the Query Builder 
 
 Execute the request by clicking the "Run" button or pressing the "Command + R" keyboard shortcut. The response will be displayed in the Response Viewer section.
 
-<img width="1182" alt="Screenshot 2023-07-29 at 5 05 44 PM" src="https://github.com/ishaanbedi/Voyager/assets/39641326/15b83730-a5ff-420b-90f5-7422a768d9b6">
+<img width="1182" alt="Screenshot 2023-07-29 at 5 05 44 PM" src="https://res.cloudinary.com/dhfhotfqs/image/upload/v1690693847/Voyager/256980627-e52edc54-b990-4588-86a3-c38e656d0787_lfv8hw.png">
 
 
 ## Acknowledgements
