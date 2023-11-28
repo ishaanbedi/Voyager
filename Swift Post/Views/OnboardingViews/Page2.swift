@@ -2,7 +2,7 @@ import SwiftUI
 struct Page2: View {
     let githubURL = "https://github.com/ishaanbedi/Voyager"
     let contactURL = "mailto:hi@ishaanbedi.in"
-    let documentationURL = "https://www.ishaanbedi.in/apps/voyager"
+    let documentationURL = "https://www.ishaanbedi.in/posts/voyager"
     @Binding var currentUserSignedIn: Bool
     var body: some View {
         VStack(spacing: 20) {
@@ -16,7 +16,7 @@ struct Page2: View {
                 Text(" | ")
                 Link("Support", destination: URL(string: contactURL)!)
                 Text(" | ")
-                Link("Documentation", destination: URL(string: documentationURL)!)
+                Link("Learn More", destination: URL(string: documentationURL)!)
             }
                 .font(.system(size: 16))
             VStack {

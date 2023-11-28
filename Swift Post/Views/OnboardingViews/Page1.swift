@@ -13,7 +13,7 @@ struct Page1: View {
                     .fontWeight(.regular)
             }
             VStack(alignment: .leading) {
-                FeatureView(imageName: "swift", title: "Native macOS App Built with Swift", desc: "Voyager is a developer-friendly and easy-to-use application designed for API testing, written in Swift for a seamless experience.", color: .orange)
+                FeatureView(imageName: "swift", title: "Built with Swift & SwiftUI", desc: "Voyager is a developer-friendly and easy-to-use application designed for API testing, written in Swift & SwiftUI for a seamless experience.", color: .orange)
                 FeatureView(imageName: "slider.horizontal.3", title: "Customizable Requests", desc: "Tailor your API requests effortlessly with full control over parameters, headers, and request bodies, enabling precise interactions with APIs.", color: .gray)
                 FeatureView(imageName: "bolt.circle", title: "Lightning-Fast Testing", desc: "Experience blazingly fast API testing with Voyager, ensuring rapid responses for quicker iterations and efficient development workflows.", color: .indigo)
             }
