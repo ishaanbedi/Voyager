@@ -102,7 +102,7 @@ Voyager is built with tools and technologies that are exclusive to macOS, so it 
 
 ### Can I run Voyager on an older version of macOS?
 
-Voyager is built with Swift and SwiftUI, and some of the features used in the app depend on external libraries that support macOS 11.0 or later. Therefore, Voyager cannot run on older versions of macOS.
+Voyager is built with Swift and SwiftUI, and some of the features used in the app depend on external libraries that support macOS 12.0 or later. Therefore, Voyager cannot run on older versions of macOS.
 However, you can build the app from the source and run it on older versions of macOS while downgrading some features while building the app and customizing the code yourself as per your needs.
 
 ### Do I need to have Xcode installed to use Voyager?
