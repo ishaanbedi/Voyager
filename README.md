@@ -24,7 +24,7 @@ Voyager provides a seamless and efficient way to test your APIs and view respons
 Read the official [post on ishaanbedi.in/apps/voyager](https://ishaanbedi.in/apps/voyager) to learn more about Voyager.
 ## Requirements
 
-Voyager runs on macOS 11.0 or later.
+Voyager runs on macOS 12.0 or later.
 
 To build the app from source, you will need Xcode 12.0 or later installed on your Mac. Also, Voyager depends on some third-party libraries that are managed using Swift Package Manager. Xcode will automatically download and install these dependencies when you build the project for the first time.
 
