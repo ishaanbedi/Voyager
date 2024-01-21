@@ -34,7 +34,7 @@ struct Swift_PostApp: App {
             .commands {
             CommandMenu("Report An Issue") {
                 Link("Open an issue on GitHub", destination: URL(string: "https://github.com/ishaanbedi/swift-post-temp/issues")!)
-                Link("Get support on Email", destination: URL(string: "mailto:hi@ishaanbedi.in?subject=Issue_With_Voyager")!)
+                Link("Get support on Email", destination: URL(string: "mailto:ishaan.bedi@icloud.com?subject=Issue_With_Voyager")!)
                 Link("Learn more about Voyager", destination: URL(string: "https://www.ishaanbedi.in/posts/voyager")!)
 
             }

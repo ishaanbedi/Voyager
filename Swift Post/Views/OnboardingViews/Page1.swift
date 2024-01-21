@@ -5,9 +5,8 @@ struct Page1: View {
     var body: some View {
         VStack {
             VStack(spacing: 10) {
-                Text("Welcome to Voyager")
+                Text("**Welcome to Voyager**")
                     .font(.system(size: 42))
-                    .fontWeight(.bold)
                 Text("A free to use API testing software for the macOS")
                     .font(.title2)
                     .fontWeight(.regular)
@@ -22,9 +21,8 @@ struct Page1: View {
             Button(action: {
                 index += 1
             }) {
-                Text("Next")
+                Text("**Next**")
                     .frame(maxWidth: 400)
-                    .fontWeight(.bold)
             }
                 .buttonStyle(CustomButtonStyle())
         }

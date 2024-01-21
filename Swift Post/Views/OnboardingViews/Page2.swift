@@ -1,7 +1,7 @@
 import SwiftUI
 struct Page2: View {
     let githubURL = "https://github.com/ishaanbedi/Voyager"
-    let contactURL = "mailto:hi@ishaanbedi.in"
+    let contactURL = "mailto:ishaan.bedi@icloud.com"
     let documentationURL = "https://www.ishaanbedi.in/posts/voyager"
     @Binding var currentUserSignedIn: Bool
     var body: some View {
@@ -20,7 +20,7 @@ struct Page2: View {
             }
                 .font(.system(size: 16))
             VStack {
-                Text("Voyager does not collect any data from your system.\n\nIf you encounter any issues or have suggestions for improvements, feel free to open an issue on GitHub or email the developer at hi@ishaanbedi.in")
+                Text("Voyager does not collect any data from your system.\n\nIf you encounter any issues or have suggestions for improvements, feel free to open an issue on GitHub or email the developer at ishaan.bedi@icloud.com")
                     .font(.system(size: 15))
                     .foregroundColor(.secondary)
                     .multilineTextAlignment(.center)
@@ -28,9 +28,8 @@ struct Page2: View {
             Button(action: {
                 currentUserSignedIn.toggle()
             }) {
-                Text("Get Started")
+                Text("**Get Started**")
                     .frame(maxWidth: 400)
-                    .fontWeight(.bold)
             }
                 .buttonStyle(CustomButtonStyle())
                 .padding(.top, 55)
