@@ -21,12 +21,12 @@ Voyager provides a seamless and efficient way to test your APIs and view respons
 <img width="1186" alt="Screenshot 2023-07-29 at 5 02 18 PM" src="https://res.cloudinary.com/dhfhotfqs/image/upload/v1690693849/Voyager/256980262-e1ad3575-b1ce-4959-b65a-67517031ba5c_bw92bf.png">
 
 
-Read the official [post on ishaanbedi.in/apps/voyager](https://ishaanbedi.in/apps/voyager) to learn more about Voyager.
+Read the official [post on ishaanbedi.in/posts/voyager](https://ishaanbedi.in/posts/voyager) to learn more about Voyager.
 ## Requirements
 
 Voyager runs on macOS 12.0 or later.
 
-To build the app from source, you will need Xcode 12.0 or later installed on your Mac. Also, Voyager depends on some third-party libraries that are managed using Swift Package Manager. Xcode will automatically download and install these dependencies when you build the project for the first time.
+To build the app from the source, you will need Xcode 12.0 or later installed on your Mac. Also, Voyager depends on some third-party libraries that are managed using Swift Package Manager. Xcode will automatically download and install these dependencies when you build the project for the first time.
 
 ## Installation
 
@@ -94,7 +94,7 @@ Voyager is a simple and easy-to-use API testing tool that allows you to quickly 
 
 ### Is this an alternative to Postman/Insomnia?
 
-Absolutely not. While Voyager is a great tool for testing APIs, it is not a replacement for Postman or Insomnia. I built Voyager to be a simple and easy-to-use tool for API testing that can be used instantly and is super lightweight, fast, and just gets the work done while building my apps. While Postman/Insomnia provides 10x or maybe 100x more features as compared to Voyager, it doesn't aim to compete with them in terms of complexity and extensibility since this tool is meant to be used for quick API testing and debugging.
+No. While Voyager is a great tool for testing APIs, it is not a replacement for Postman or Insomnia. I built Voyager to be a simple and easy-to-use tool for API testing that can be used instantly and is super lightweight, fast, and just gets the work done while building my apps. While Postman/Insomnia provides 10x or maybe 100x more features as compared to Voyager, it doesn't aim to compete with them in terms of complexity and extensibility since this tool is meant to be used for quick API testing and debugging.
 
 ### Can I run Voyager on an operating system other than macOS?
 
