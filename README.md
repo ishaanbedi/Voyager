@@ -21,7 +21,7 @@ Voyager provides a seamless and efficient way to test your APIs and view respons
 <img width="1186" alt="Screenshot 2023-07-29 at 5 02 18 PM" src="https://res.cloudinary.com/dhfhotfqs/image/upload/v1690693849/Voyager/256980262-e1ad3575-b1ce-4959-b65a-67517031ba5c_bw92bf.png">
 
 
-Read the official [post on ishaanbedi.in/posts/voyager](https://ishaanbedi.in/posts/voyager) to learn more about Voyager.
+Read the official [post on ishaanbedi.com/posts/voyager](https://ishaanbedi.com/posts/voyager) to learn more about Voyager.
 ## Requirements
 
 Voyager runs on macOS 12.0 or later.
@@ -113,7 +113,7 @@ No, you do not need to have Xcode installed to use Voyager. You can download the
 
 To report bugs or request new features, please open an issue on GitHub.
 
-If you encounter any vulnerabilities, please reach out to me directly at [hi@ishaanbedi.in](mailto:hi@ishaanbedi.in) if it involves sensitive information or security concerns.
+If you encounter any vulnerabilities, please reach out to me directly at [hey@ishaanbedi.com](mailto:hey@ishaanbedi.com) if it involves sensitive information or security concerns.
 
 ## License
 
